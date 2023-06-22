@@ -1,4 +1,4 @@
-heckout live:
+checkout live:
 https://cards-seven-tau.vercel.app/
 
 (mini-practice project)
