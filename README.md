@@ -1,3 +1,11 @@
+checkout live:
+https://cards-seven-tau.vercel.app/
+
+(mini-practice project)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
