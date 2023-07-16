@@ -1,23 +1,27 @@
 checkout live:
+#
 https://cards-seven-tau.vercel.app/
 
-(mini-practice project)
 
-
-
+#
+This is a mini React web practice project!
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+### `npm i`
+or
+### `npm install`
 In the project directory, you can run:
 
 ### `npm start`
 
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
